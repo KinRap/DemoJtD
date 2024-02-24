@@ -4,7 +4,6 @@ layout: default
 ---
 
 
-
 # “*Happily ever after*” with Unresponsive SME <!-- omit in toc -->
 
 
