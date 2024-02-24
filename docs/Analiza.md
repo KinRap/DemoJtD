@@ -1,6 +1,7 @@
 ---
 title: Analiza
 layout: default
+nav_order: 2
 ---
 
 ![alt analiza](narrative-criticism.jpg)
