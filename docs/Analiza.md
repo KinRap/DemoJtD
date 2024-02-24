@@ -44,7 +44,7 @@ Niezależnie od tego, czy mamy do czynienia z historią opowiadaną ustnie, czy 
 
 Człowiek jest istotą społeczną. W związku z tym od zawsze podejmował próby kontaktu z innymi. Kontakt ten odbywa się po dziś dzień, w swojej podstawowej formie, w następujący sposób: 
 
-![alt model komunikacyjny](modelkom.jpg)
+![alt model komunikacyjny](../images/modelkom.jpg)
 
 
 Człowiek obok przekazu informacji przedstawiał także różne formy opowiadań. Z czasem ludzie zaczęli je spisywać. Wówczas model komunikacyjny zmienił się na: 
@@ -59,7 +59,7 @@ autor domyślny – narracja – czytelnik domyślny
 ```
 Nie wskazuje on jednak wszystkich płaszczyzn, które dotyczą narracji, a których badaniem zajmuje się analiza narracji, dlatego lepszy wydaje się model zaprezentowany poniżej:
 
-![alt model komunikacyjny](model.jpg)
+![alt model komunikacyjny](../images/model.jpg)
 
 
 
@@ -96,7 +96,7 @@ W przypadku narratora najbardziej istotne jest odnalezienie znaków określając
 Odbiorca narracji, podobnie jak narrator, jest zawsze w niej obecny . Chodzi tutaj o tego, komu dana historia jest opowiadana lub o tego, kto zapoznaje się z narracją. Czytelnik wyczuwa, że on lub ona stoi ponad tym opowiadaniem. Jednak jego identyfikacja nie jest łatwa. Może nim być także jeden z bohaterów opowiadania. Może być czytelnikiem lub słuchaczem. Należy pamiętać jednak o tym, że może odgrywać dużą rolę w opowiadanych wydarzeniach. Czasami w toku narracji przechodzi transformację. Może też dojść do tego, że narrator w różnych momentach ma na myśli innego odbiorcę narracji. Czasami może też być identyfikowany z konkretną i rzeczywistą osobą . Odbiorca narracji odgrywa w badaniach nad tekstem bardzo ważną rolę. Czasami tylko on może właściwie odebrać i zinterpretować daną narrację . Należy jednak pamiętać, że rola odbiorcy narracji będzie zależna od przypisanego mu w narracji miejsca. Odbiorcom narracji odpowiadają rodzaje narratorów:
 
 
-![alt Narrator](narrator.jpg)
+![alt Narrator](../images/narrator.jpg)
 
 
 # Treść opowiadania (*story*)
@@ -117,7 +117,7 @@ Wydarzenia (*events*) są zmianą stanu rzeczy, będącą mniej lub bardziej ist
  ```
  Fabuła powinna być tak skonstruowana, aby nieustannie wzbudzać zainteresowanie czytelnika i jego emocjonalne zaangażowanie przy jednoczesnym nasycaniu wydarzeń odpowiednimi znaczeniami
  ```
- ![alt Fabuła](fabuła.png)
+ ![alt Fabuła](../images/fabuła.png)
 
 ### Prawdopodobienstwo (*verisimilitude*)
 Prawdopodobieństwo (*verisimilitude*) stanowi jedną z podstawowych form łączących w narracji. Bardzo często utrzymuje ono jej spójność . Genette zauważa, że jego podstaw należy upatrywać w przekonaniu ogółu o wspólnym znaczeniu jakiegoś terminu. Prawdopodobieństwo odnosi się nie do rzeczywistości przypadkowej, ale do wyidealizowanej. Nie do rzeczy istniejących, ale do wyimaginowanych. Opisuje je takimi, jakimi powinny być, a nie takimi, jakimi są . W przypadku, kiedy prawdopodobieństwo jest utrzymywane w narracji poprzez opisy detali takich jak wnętrza pokoi, wygląd zewnętrzny pomniejszych bohaterów, pogoda czy np. opisy dźwięków znajdujących się w tle, wówczas możemy mówić o efekcie realności (*reality effect*) .
