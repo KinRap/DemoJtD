@@ -1,6 +1,7 @@
 ---
 title: Analiza
 layout: default
+parent: Home
 nav_order: 2
 ---
 
