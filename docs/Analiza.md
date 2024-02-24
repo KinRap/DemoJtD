@@ -3,7 +3,7 @@ title: Analiza
 layout: default
 ---
 
-![alt analiza](narrative-criticism.jpg)
+![alt analiza](:images/narrative-criticism.jpg)
 
 # Analiza narracyjna  <!-- omit in toc -->
 
